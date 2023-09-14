@@ -29,6 +29,7 @@ body {
     height: 100%;
     width: 100%;
     background-color: red;
+    color: white;
   }
   
   .first-element {
@@ -37,4 +38,7 @@ body {
   
   .second-element {
     background-color: goldenrod;
+  }
+  li {
+    list-style-type: none;
   }
