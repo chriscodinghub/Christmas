@@ -1,0 +1,40 @@
+body {
+    background-color: #f8fcfd;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 20px;
+    line-height: 2px;
+  }
+  
+  h4 {
+    font-size: 18px;
+  }
+  
+  a {
+    font-size: 16px;
+    color: #181510;
+  }
+  header, footer {
+    background-color: green;
+  }
+  section {
+    margin: 0 ;
+    height: 100%;
+    width: 100%;
+    background-color: red;
+  }
+  
+  .first-element {
+    background-color: lightblue;
+  }
+  
+  .second-element {
+    background-color: goldenrod;
+  }
